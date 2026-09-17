@@ -39,4 +39,4 @@ A jornada da plataforma baseia-se em três pilares fundamentais:
 
 Estamos preparando a primeira versão da plataforma! Se você é estudante, professor ou representa uma instituição e deseja testar ou contribuir para a evolução do projeto, a participação na versão inicial é totalmente gratuita.
 
-[**Inscreva-se para a versão gratuita**](https://docs.google.com/forms/d/e/1FAIpQLSfLEUMBvM54DpRSKPcJZe2i_1FjJOWF8zycIlv5zULDiMbs1g/viewform)
+[**Inscreva-se para a versão de teste**](https://docs.google.com/forms/d/e/1FAIpQLSfLEUMBvM54DpRSKPcJZe2i_1FjJOWF8zycIlv5zULDiMbs1g/viewform)
