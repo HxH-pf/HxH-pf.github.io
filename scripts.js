@@ -89,11 +89,6 @@ document.querySelectorAll('.feature').forEach((card) => {
   });
 });
 
-/*
- * Slots de assets
- * Basta adicionar os arquivos com os nomes declarados em data-asset-src.
- * Quando o arquivo existir, ele substitui automaticamente o placeholder.
- */
 document.querySelectorAll('[data-asset-src]').forEach((slot) => {
   const source = slot.dataset.assetSrc;
   const image = new Image();
